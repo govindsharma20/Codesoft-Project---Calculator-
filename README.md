@@ -1,1 +1,1 @@
-# Codespft-Project---Calculator-
+# Codesoft-Project---Calculator-
